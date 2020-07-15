@@ -4,7 +4,7 @@ Previous approaches for scene text detection have already achieved promising per
 
 
 
-#Inference
+##Inference
 
 python text_recognition.py --east  --image  --padding --min-confidenc --width --height
 
